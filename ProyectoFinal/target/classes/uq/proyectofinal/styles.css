@@ -1,0 +1,8 @@
+custom-button {
+    -fx-background-color: #4CAF50; /* Color de fondo */
+    -fx-text-fill: white; /* Color del texto */
+    -fx-font-size: 16px; /* Tamaño de la fuente */
+    -fx-padding: 10px 20px; /* Relleno */
+    -fx-border-radius: 5; /* Esquinas redondeadas */
+    -fx-background-radius: 5; /* Esquinas del fondo redondeadas */
+}
